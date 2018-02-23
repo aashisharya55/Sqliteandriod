@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
             String log = "Id: "+cn.get_id()+" ,Name: " + cn.get_name() + " ,Phone: " + cn.get_phone_number();
             Log.d("Name: ", log);
 
+
+            /*this is my test*/
         }
     }
 }
